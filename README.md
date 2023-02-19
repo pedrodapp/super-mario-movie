@@ -23,8 +23,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Super Mario Bros - Movie Trailer
+Landing Page - Super Mario Bros - Movie Trailer 🍿
 
 ---
 
-Feito com 💜 durante o MapaDev Week do @devemdobro.
+Feito com 🍄 durante o MapaDev Week do @devemdobro.
