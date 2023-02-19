@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo" src="/src/images/logo-chapeu-mario.png" width="18%">
+  <img alt="Logo" src="/src/images/logo-chapeu-mario.png" width="10%">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="Preview" src="/src/images/super-mario-chars.png" width="100%">
+  <img alt="Preview" src="/src/images/super-mario-chars.png" width="50">
 </p>
 
 ## 🚀 Tecnologias
