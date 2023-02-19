@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="Preview" src="/src/images/super-mario-chars.png" width="50">
+  <img alt="Preview" src="/src/images/super-mario-chars.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
