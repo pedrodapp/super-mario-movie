@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
@@ -12,18 +12,18 @@
   <img alt="Preview" src="/src/images/super-mario-chars.png" width="50%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML
 - CSS
 - JavaScript
 
-## 💻 Projeto
+## 💻 Project
 
 Landing Page - Super Mario Bros - Movie Trailer 🍿
 
 ---
 
-Feito com 🍄 durante o MapaDev Week do @devemdobro.
+Made with 🍄 during @devemdobro's MapaDev Week.
