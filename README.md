@@ -10,6 +10,10 @@
   </a>
 </p>
 
+## 💻 Project
+
+Landing Page - Super Mario Bros - Movie Trailer 🍿
+
 ## 🚀 Technologies
 
 This project was developed with the following technologies:
@@ -17,11 +21,5 @@ This project was developed with the following technologies:
 - HTML
 - CSS
 - JavaScript
-
-## 💻 Project
-
-Landing Page - Super Mario Bros - Movie Trailer 🍿
-
----
 
 Made with 🍄 during @devemdobro's MapaDev Week.
