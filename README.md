@@ -1,15 +1,13 @@
 <p align="center">
+  <a href="https://pedrodapp.github.io/super-mario-movie/" target="_blank">
   <img alt="Logo" src="/src/images/logo-chapeu-mario.png" width="10%">
+  </a>
 </p>
 
 <p align="center">
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;
-</p>
-<br>
-
-<p align="center">
+  <a href="https://pedrodapp.github.io/super-mario-movie/" target="_blank">
   <img alt="Preview" src="/src/images/super-mario-chars.png" width="50%">
+  </a>
 </p>
 
 ## 🚀 Technologies
