@@ -12,7 +12,7 @@
 
 ## 💻 Project
 
-Super Mario Bros - Movie Landing Page 🍿
+Super Mario Movie - Landing Page 🍿
 
 ## 🚀 Technologies
 
